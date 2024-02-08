@@ -1,0 +1,66 @@
+17:55:51.990 [TestNG-tests-1] INFO  testCases.TC_003_Login_Test_Data_Driven_Test - ***** END TC_003_Login_Test_Data_Driven_Test *****
+17:15:22.946 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:15:23.322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:15:56.837 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:15:57.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:16:54.265 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:16:54.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:17:46.309 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:17:46.611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:17:52.273 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - **** TC_002_Login_Test_Case ****
+17:17:52.274 [TestNG-tests-1] DEBUG testCases.TC_002_Login_Test_Case - capturing application logs.....
+17:17:52.884 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Clicked on MyAccount on home page
+17:17:53.457 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Clicked on Login link
+17:17:53.458 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Entering valid email and password
+17:17:54.391 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - **** Finished TC_002_Login_Test_Case ****
+17:18:05.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:18:05.644 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:18:09.726 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - **** TC_002_Login_Test_Case ****
+17:18:09.726 [TestNG-tests-1] DEBUG testCases.TC_002_Login_Test_Case - capturing application logs.....
+17:18:09.869 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Clicked on MyAccount on home page
+17:18:10.290 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Clicked on Login link
+17:18:10.292 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - Entering valid email and password
+17:18:10.977 [TestNG-tests-1] INFO  testCases.TC_002_Login_Test_Case - **** Finished TC_002_Login_Test_Case ****
+17:23:49.261 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:23:49.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:24:08.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:24:08.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:24:58.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:24:58.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:26:27.601 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:26:27.915 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:27:29.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:27:30.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:28:27.942 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:28:28.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:29:58.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml"
+17:29:58.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\grouping.xml
+
+17:30:01.448 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:30:01.448 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application started....
+17:30:02.135 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+17:30:02.789 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+17:30:02.789 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..

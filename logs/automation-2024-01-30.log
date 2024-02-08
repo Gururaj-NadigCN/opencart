@@ -1,0 +1,50 @@
+17:33:17.037 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+17:33:21.050 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+17:33:21.541 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+17:33:21.541 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+17:33:23.274 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+17:33:23.339 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:33:23.341 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end....
+17:33:23.342 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:33:24.770 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+17:33:24.840 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:33:24.841 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end....
+17:33:24.841 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:38:11.528 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\testng.xml"
+18:38:11.849 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\testng.xml
+
+18:38:28.700 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:38:28.700 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application started....
+18:38:29.994 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+18:38:31.233 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:38:31.233 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application started....
+18:38:31.402 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+18:38:33.062 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+18:38:33.062 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+18:38:33.153 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+18:38:33.153 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+18:38:39.078 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+18:38:39.365 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+18:38:39.370 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end....
+18:38:39.370 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:38:46.563 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+18:38:46.619 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+18:38:46.619 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end....
+18:38:46.619 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:40:00.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Automation_Testing_Full_Udemy_Course\opencart\testng.xml"
+18:40:00.500 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Automation_Testing_Full_Udemy_Course\opencart\testng.xml
+
+18:40:05.645 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:40:05.645 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application started....
+18:40:06.161 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:40:06.162 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application started....
+18:40:06.288 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+18:40:06.819 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+18:40:06.820 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+18:40:09.966 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on MyAccount link
+18:40:10.645 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click on registration link
+18:40:10.645 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+18:40:12.454 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+18:40:12.507 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..

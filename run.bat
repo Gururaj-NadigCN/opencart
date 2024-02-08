@@ -1,0 +1,2 @@
+cd E:\Automation_Testing_Full_Udemy_Course\opencart
+mvn test
